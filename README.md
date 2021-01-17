@@ -1,6 +1,6 @@
 In this passage,i will try to explain what the Inversion Of Control and Dependency Inversion Principle.In addition to that, how we implement these to project.
 First of all Principle and Patterns are different terms.Principle (as Robert Martin's SOLİD Principles) provide well-thought,tested and successfulled explanation in terms of Problem.On the other hand,Patterns are totally distinct from principle.Patterns are use for the principle they are not the explanation.
-Robert Martin (Bob Uncle) says in the last principle of the SOLİD , tightly coupled classes will be hazardous effect for the projects in terms of expenses ,besides that,he points out that if the developers want to build a extendable,changeable and testable projects they need to use losely coupled classes.Why? As the Robert Martin mentioned;there are numerous disadvantages of tightly coupled classes.
+Robert Martin (Bob Uncle) says in the last principle of the SOLİD , tightly coupled classes will be hazardous effect for the projects in terms of expenses ,besides that,he points out that if the developers want to build an extendable,changeable and testable projects they need to use losely coupled classes.Why? As the Robert Martin mentioned;there are numerous disadvantages of tightly coupled classes.
 
 1-Tightly coupled classes can not be clear as much as Losely coupled classes.For instance,new developer who joined ur team , developer should be trouble when the read and understand and manage these structure.
 
